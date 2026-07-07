@@ -44,6 +44,11 @@ My research agenda lies at the intersection of urban sociology, political sociol
   - Instructor: Michael Esposito
   - Will serve as a Graduate Teaching Assistant for the 3000-level undergraduate Social Statistics course.
   - Will lead 2 weekly lab sections and support over 50 students in statistical programming and quantitative analysis.
+ 
+## Other Teaching Experience
+- Private English Tutor, English for High School Student (Jun–Aug 2026)
+- English Tutor, NYU Shanghai Facilities Management Staff (Feb–May 2024)
+- Assistant English Tutor, TOEFL & IELTS Division, New Oriental Education (Jan–Feb 2023)
 
 # 📷 Beyond Academics
 Outside of academia, I enjoy following elections and public affairs, particularly in North America and Taiwan. I also enjoy photography, swimming, and playing badminton.
