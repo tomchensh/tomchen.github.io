@@ -17,42 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About Me
+My name is Tom Chen (陈辰). I am a first-year Ph.D. student in Sociology at the University of Minnesota Twin Cities. I obtained my B.A. in Economics from NYU Shanghai, with double minors in Social Science and Humanities.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research agenda lies at the intersection of urban sociology, political sociology, and social inequality. I am particularly interested in the spatial organization of poverty and inequality across global cities, as well as ideological polarization and political behavior. More broadly, I seek to understand how social, political, and spatial processes interact to shape patterns of inequality.
 
+# 📖 Education
+- *2026.09 - 2032.05 (Expected)*, **Ph.D. in Sociology**, University of Minnesota Twin Cities
+  - Advisor: [Dr. Michael Esposito](https://cla.umn.edu/about/directory/profile/mesposit)
+- *2022.09 - 2026.05*, **B.A. in Economics** (cum laude), New York University Shanghai
+  - GPA: 3.83/4.00; University Honors Scholar
+  - Minors: Social Science and Humanities
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📝 Research
+- *2025.05 - Present*, Research Affiliate, [Social Change Lab](https://www.utsc.utoronto.ca/labs/socialchange/), University of Toronto
+  - Advisors: [Dr. Ethan Fosse](https://www.sociology.utoronto.ca/people/directories/all-faculty/ethan-fosse) and [Dr. Sébastien Parker](https://islandscholar.ca/people/separker)
+- *2023.11 - Present*, Research Assistant, Applied Cognition and Emotions Lab, New York University Shanghai
+  - Advisor: [Dr. Yuerui (Julia) Wu](https://shanghai.nyu.edu/academics/faculty/directory/yuerui-wu)
+ 
+# 💬 Presentations
+- **Chen, C.** (June 2026). Invisible Boundaries: Measuring Poverty Stratification through Chicago’s Spatial Adjacency Network (Poster presentation). Sunbelt Conference, International Network for Social Network Analysis, Daytona Beach, FL.
+- Shen, W., **Chen, C.**, Zhang, Y., Wu, Y. T., Wu, Y. R. (March 2026). Children’s Suggestibility Following a Staged Transgression: The Role of Parental Cultural Values. American Psychology Law Society Conference, Reno, NV.
 
-# 📝 Publications 
+# 🏫 Teaching 
+- **Teaching Assistant**, *Social Statistics* (Fall 2026)
+  - Instructor: Michael Esposito
+  - Will serve as a Graduate Teaching Assistant for the 3000-level undergraduate Social Statistics course.
+  - Will lead 2 weekly lab sections and support over 50 students in statistical programming and quantitative analysis.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📷 Beyond Academics
+Outside of academia, I enjoy following elections and public affairs, particularly in North America and Taiwan. I also enjoy photography, swimming, and playing badminton.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+Born and raised in Shanghai, China, I remain a die-hard fan of [Shanghai Shenhua FC](https://www.instagram.com/shenhuafc_official) in the Chinese Super League. I also follow English football (soccer) closely and am a proud supporter of [Arsenal FC](https://www.arsenal.com/) in the Premier League.
