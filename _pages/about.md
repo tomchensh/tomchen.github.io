@@ -40,6 +40,7 @@ My research agenda lies at the intersection of urban sociology, political sociol
 - Shen, W., **Chen, C.**, Zhang, Y., Wu, Y. T., Wu, Y. R. (March 2026). Children’s Suggestibility Following a Staged Transgression: The Role of Parental Cultural Values. American Psychology Law Society Conference, Reno, NV.
 
 # 🏫 Teaching 
+## University of Minnesota
 - **Teaching Assistant**, *Social Statistics* (Fall 2026)
   - Instructor: Michael Esposito
   - Will serve as a Graduate Teaching Assistant for the 3000-level undergraduate Social Statistics course.
