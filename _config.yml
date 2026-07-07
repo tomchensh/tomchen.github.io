@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tom Chen (陈辰)"
   avatar           : "images/profile_.jpg"
-  bio              : 
+  bio              : "University of Minnesota"
   location         : "Minneapolis, MN"
-  employer         : "University of Minnesota"
+  employer         : 
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "che00334@umn.edu"
