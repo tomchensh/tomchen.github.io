@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tom Chen"
-description              : "Academic Website for Tom Chen, PhD in Sociology at the University of Minnesota."
+description              : "University of Minnesota"
 repository               : "tomchensh/tomchensh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tom Chen (陈辰)"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile_.png"
   bio              : "Academic Website for Tom Chen, PhD in Sociology at the University of Minnesota."
   location         : "Minneapolis, MN"
   employer         :
